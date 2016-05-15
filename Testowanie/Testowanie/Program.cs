@@ -8,7 +8,7 @@ namespace Testowanie
 {
     public class Program
     {
-        public static void QuickSort()
+        public static void QuickSort(int[] tab, int s, int p)
         {
 
 

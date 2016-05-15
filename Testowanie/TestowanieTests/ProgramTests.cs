@@ -14,7 +14,13 @@ namespace Testowanie.Tests
         [TestMethod()]
         public void QuickSortTest()
         {
-            Assert.Fail();
+            int[] tab = new int[] { 3, 1, 2, 5, 4, 6 };
+            Program.QuickSort(tab, 0, tab.Length - 1);
+            for (int i = 0; i < tab.Length - 1; i++)
+            {
+                Assert.IsTrue(tab[i] <= tab[i + 1]);
+
+            }
         }
     }
 }

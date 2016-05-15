@@ -1,1 +1,6 @@
 D:\KOLOS\Testowanie\Testowanie\bin\Debug\Testowanie.exe.config
+D:\KOLOS\Testowanie\Testowanie\bin\Debug\Testowanie.exe
+D:\KOLOS\Testowanie\Testowanie\bin\Debug\Testowanie.pdb
+D:\KOLOS\Testowanie\Testowanie\obj\Debug\Testowanie.csprojResolveAssemblyReference.cache
+D:\KOLOS\Testowanie\Testowanie\obj\Debug\Testowanie.exe
+D:\KOLOS\Testowanie\Testowanie\obj\Debug\Testowanie.pdb
