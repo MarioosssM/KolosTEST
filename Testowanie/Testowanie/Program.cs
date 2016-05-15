@@ -34,6 +34,12 @@ namespace Testowanie
         }
         static void Main(string[] args)
         {
+            int[] tab = new int[] { 2, 4, 1, 5, 6, 3 };
+
+            Console.WriteLine(string.Join(" ", tab));
+            QuickSort(tab, 0, tab.Length - 1);
+            Console.WriteLine(string.Join(" ", tab));
+            Console.ReadKey();
         }
     }
 }
